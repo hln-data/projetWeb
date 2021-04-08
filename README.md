@@ -1,8 +1,5 @@
 # cultureG
 
-Site à but lucratif inachevé & non publié, crée par LIN Hélène (dossier parcoursup n°571129), dans le but de s'exercer à la programmation HTML, CSS et JavaScript.
-date de création: mars 2021.
-
 Note:
 CultureG est un projet de site internet que j'ai crée de ma propre iniatitive.
 Il a pour but de proposer des quiz permettant de tester sa culture générale, avec la possibilité de générer des petites anecdotes aléatoires (gestion de bug non maitrisé dans le code)
